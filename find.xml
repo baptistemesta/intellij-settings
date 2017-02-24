@@ -1,0 +1,32 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xml" />
+    <recentFileMasks>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.xml,*.properties</mask>
+      <mask>*.gradle</mask>
+      <mask>*.xmldle</mask>
+      <mask>pom.cml</mask>
+      <mask>*.md</mask>
+      <mask>*.properties</mask>
+      <mask>*</mask>
+      <mask>CallActivityIT.java</mask>
+      <mask>*.hbm.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.sql</mask>
+      <mask>pom.xml</mask>
+      <mask>build.gradle</mask>
+      <mask>*.xml</mask>
+    </recentFileMasks>
+  </component>
+</application>

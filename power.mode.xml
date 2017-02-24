@@ -1,0 +1,5 @@
+<application>
+  <component name="PowerMode">
+    <option name="enabled" value="false" />
+  </component>
+</application>

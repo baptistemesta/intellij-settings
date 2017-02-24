@@ -1,0 +1,14 @@
+<templateSet group="Java">
+  <template name="sysout" value="System.out.println($SELECTION$);" description="system out" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="publicvm" value="public void $NAME$() {&#10;    $BODY$&#10;}" description="create a public method" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
