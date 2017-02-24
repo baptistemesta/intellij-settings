@@ -4,6 +4,7 @@
       <list>
         <Settings>
           <option name="defaultSettings" value="true" />
+          <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1452158530289" />
           <option name="name" value="default" />
           <option name="pathToConfigFileJava" value="$USER_HOME$/git/bonita-internal-tools/codestyle/BOS-Formatter.xml" />
