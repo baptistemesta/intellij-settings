@@ -1,5 +1,5 @@
 <templateSet group="Tests">
-  <template name="test" value="@Test&#10;public void should_$NAME$() throws Exception {&#10;    //given&#10;    $BODY$&#10;    //when&#10;    &#10;    //then&#10;    &#10;}" description="Test method" toReformat="true" toShortenFQNames="true">
+  <template name="test" value="@Test&#10;public void should_$NAME$() throws Exception {&#10;    $BODY$&#10;}" description="Test method" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="method_name" alwaysStopAt="true" />
     <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -23,7 +23,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="should" value="@Test&#10;public void should_$NAME$() throws Exception {&#10;    //given&#10;    $BODY$&#10;    //when&#10;    &#10;    //then&#10;    &#10;}" description="Test method" toReformat="true" toShortenFQNames="true">
+  <template name="should" value="@Test&#10;public void should_$NAME$() throws Exception {&#10;    $BODY$&#10;}" description="Test method" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="method_name" alwaysStopAt="true" />
     <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
