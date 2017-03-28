@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -23,9 +24,13 @@
       <mask>*.hbm.xml</mask>
       <mask>*.java</mask>
       <mask>*.sql</mask>
-      <mask>pom.xml</mask>
       <mask>build.gradle</mask>
       <mask>*.xml</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
