@@ -15,7 +15,6 @@
       <mask>*.xmldle</mask>
       <mask>pom.cml</mask>
       <mask>*.md</mask>
-      <mask>*.properties</mask>
       <mask>*</mask>
       <mask>CallActivityIT.java</mask>
       <mask>*.hbm.xml</mask>
@@ -28,6 +27,7 @@
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
