@@ -3,11 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -21,7 +22,6 @@
       <mask>*</mask>
       <mask>CallActivityIT.java</mask>
       <mask>*.hbm.xml</mask>
-      <mask>*.java</mask>
       <mask>*.sql</mask>
       <mask>build.gradle</mask>
       <mask>po</mask>
@@ -36,6 +36,9 @@
       <mask>*.properties</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
