@@ -10,6 +10,7 @@
       <package name="" withSubpackages="true" static="false" />
     </value>
   </option>
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <GroovyCodeStyleSettings>
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
