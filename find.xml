@@ -4,11 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.xml,*.properties</mask>
-      <mask>*.gradle</mask>
       <mask>*.xmldle</mask>
       <mask>pom.cml</mask>
       <mask>*.md</mask>
@@ -34,6 +29,11 @@
       <mask>po.xml</mask>
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
