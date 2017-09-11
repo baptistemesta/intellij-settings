@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.xmldle</mask>
       <mask>pom.cml</mask>
@@ -12,7 +13,6 @@
       <mask>*.hbm.xml</mask>
       <mask>*.sql</mask>
       <mask>build.gradle</mask>
-      <mask>po</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prope</mask>
@@ -27,13 +27,14 @@
       <mask>*.x</mask>
       <mask>.xml</mask>
       <mask>po.xml</mask>
-      <mask>pom.xml</mask>
       <mask>*.xml</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
+      <mask>po</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
