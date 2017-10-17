@@ -2,23 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.x</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>.xml</mask>
-      <mask>po.xml</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradle</mask>
       <mask>po</mask>
       <mask>pom.xml</mask>
       <mask>b</mask>
@@ -33,10 +19,22 @@
       <mask>*Test.groovy</mask>
       <mask>*.groovy</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.x*.xmlml</mask>
+      <mask>*.x*.xmlm</mask>
+      <mask>*.x*.</mask>
+      <mask>*.x*</mask>
+      <mask>*.x</mask>
+      <mask>*.kava</mask>
+      <mask>*.kav</mask>
+      <mask>*.ka</mask>
+      <mask>*.k</mask>
+      <mask>*.</mask>
+      <mask>*.jv</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
