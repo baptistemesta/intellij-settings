@@ -3,9 +3,8 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*Test</mask>
       <mask>*Test.</mask>
       <mask>*Test.gr</mask>
       <mask>*Test.gro</mask>
@@ -25,16 +24,17 @@
       <mask>*.ka</mask>
       <mask>*.k</mask>
       <mask>*.jv</mask>
+      <mask>*</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+      <mask>*.</mask>
       <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
+      <mask>pom.xm</mask>
       <mask>pom.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
