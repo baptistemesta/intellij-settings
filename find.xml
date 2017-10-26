@@ -4,14 +4,6 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>*Test.</mask>
-      <mask>*Test.gr</mask>
-      <mask>*Test.gro</mask>
-      <mask>*Test.groo</mask>
-      <mask>*Test.groov</mask>
-      <mask>*Test.groovy</mask>
-      <mask>*.groovy</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.x*.xmlml</mask>
       <mask>*.x*.xmlm</mask>
@@ -23,17 +15,25 @@
       <mask>*.ka</mask>
       <mask>*.k</mask>
       <mask>*.jv</mask>
-      <mask>*</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*.</mask>
       <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
+      <mask>!</mask>
+      <mask>*</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pro</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
