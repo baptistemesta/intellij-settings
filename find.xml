@@ -1,18 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.x*.xmlml</mask>
-      <mask>*.x*.xmlm</mask>
-      <mask>*.x*.</mask>
-      <mask>*.x*</mask>
-      <mask>*.x</mask>
-      <mask>*.kava</mask>
-      <mask>*.kav</mask>
-      <mask>*.ka</mask>
       <mask>*.k</mask>
       <mask>*.jv</mask>
       <mask>po</mask>
@@ -34,6 +28,15 @@
       <mask>*.propert</mask>
       <mask>*.properti</mask>
       <mask>*.properties</mask>
+      <mask>*.gr</mask>
+      <mask>*.groiovy</mask>
+      <mask>*.groiov</mask>
+      <mask>*.groio</mask>
+      <mask>*.groi</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
