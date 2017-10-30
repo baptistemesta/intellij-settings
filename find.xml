@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>po</mask>
       <mask>pom</mask>
@@ -14,9 +15,7 @@
       <mask>pom.xml</mask>
       <mask>!</mask>
       <mask>*</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
@@ -36,6 +35,8 @@
       <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
