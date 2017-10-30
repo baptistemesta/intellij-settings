@@ -5,17 +5,8 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.x</mask>
-      <mask>pom.xm</mask>
-      <mask>pom.xml</mask>
-      <mask>!</mask>
-      <mask>*</mask>
-      <mask>*.jav</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
@@ -37,6 +28,15 @@
       <mask>*.gradle</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>b</mask>
+      <mask>bui</mask>
+      <mask>buil</mask>
+      <mask>build</mask>
+      <mask>build.</mask>
+      <mask>build.gr</mask>
+      <mask>build.gra</mask>
+      <mask>build.grad</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
