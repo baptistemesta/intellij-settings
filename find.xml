@@ -5,9 +5,8 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pro</mask>
       <mask>*.proper</mask>
@@ -24,7 +23,6 @@
       <mask>*.groovy</mask>
       <mask>*.gr</mask>
       <mask>*.gra</mask>
-      <mask>*.gradle</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>b</mask>
@@ -36,6 +34,9 @@
       <mask>build.gra</mask>
       <mask>build.grad</mask>
       <mask>build.gradle</mask>
+      <mask>*.gradle</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
