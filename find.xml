@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
       <mask>*.p</mask>
       <mask>*.pro</mask>
@@ -14,11 +15,8 @@
       <mask>*.groiov</mask>
       <mask>*.groio</mask>
       <mask>*.groi</mask>
-      <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
-      <mask>*.groovy</mask>
-      <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
@@ -34,6 +32,9 @@
       <mask>*.gradle</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.gr</mask>
+      <mask>*.gro</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
