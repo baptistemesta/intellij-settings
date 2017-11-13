@@ -3,37 +3,38 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>*.pro</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.properti</mask>
-      <mask>*.properties</mask>
-      <mask>*.groiovy</mask>
-      <mask>*.groiov</mask>
-      <mask>*.groio</mask>
-      <mask>*.groi</mask>
-      <mask>*.groo</mask>
-      <mask>*.groov</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>b</mask>
-      <mask>bui</mask>
-      <mask>buil</mask>
-      <mask>build</mask>
-      <mask>build.</mask>
-      <mask>build.gr</mask>
-      <mask>build.gra</mask>
       <mask>build.grad</mask>
       <mask>build.gradle</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.gro</mask>
-      <mask>*.groovy</mask>
-      <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
+      <mask>*.pro</mask>
+      <mask>*.prope</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertiers</mask>
+      <mask>*.propertier</mask>
+      <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.gr</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
