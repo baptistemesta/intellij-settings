@@ -10,6 +10,7 @@
       <mapping ext="notused" type="PLAIN_TEXT" />
       <mapping ext="toto" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="dirty" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="clean" type="PLAIN_TEXT" />
       <mapping ext="formatted" type="PLAIN_TEXT" />
