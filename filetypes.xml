@@ -14,6 +14,7 @@
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="clean" type="PLAIN_TEXT" />
       <mapping ext="formatted" type="PLAIN_TEXT" />
+      <mapping ext="alternative" type="PLAIN_TEXT" />
       <mapping ext="versions" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
