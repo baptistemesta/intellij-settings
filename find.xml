@@ -3,9 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*work*.java" />
     <recentFileMasks>
-      <mask>*.properti</mask>
       <mask>*.propertiers</mask>
       <mask>*.propertier</mask>
       <mask>*.properties</mask>
@@ -30,11 +28,12 @@
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*w.java</mask>
       <mask>*wo.java</mask>
       <mask>*work.java</mask>
       <mask>*work*.java</mask>
+      <mask>**.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
